@@ -1,7 +1,7 @@
 # Links 
 
-* Source Repo: <https://github.com/ucsb-cs156-s22/jpa03-aripo99>
-* Production Docs Repo: <https://github.com/ucsb-cs156-s22/jpa03-aripo99-docs>
+* Source Repo: <https://github.com/{{site.repo}}>
+* Production Docs Repo: <https://github.com/{{site.repo}}-docs>
 
 
 # Documentation
